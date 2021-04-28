@@ -1,2 +1,2 @@
 # vichayan
-A website page
+A web page
